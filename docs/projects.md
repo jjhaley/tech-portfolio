@@ -11,4 +11,4 @@ This project displays full retirement age based on birth date according to the S
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/tech-portfolio-image.png)
+![Add alternate text for image](./assets/tech-portfolio-image.PNG)
